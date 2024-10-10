@@ -9,7 +9,7 @@ chiedere se lo vuole in ordine crescente
 scrivere: n2 n1
 altrimenti
  scrivere n1 n2
-altrimenti:
+altrimenti: 
 	n2<n1
 		scrivere n2 n1
 	altrimenti
