@@ -1,6 +1,6 @@
 # 3sia_test1
 prima prova
-
+```
 INIZIO
 leggi n1
 leggi n2
@@ -15,3 +15,4 @@ altrimenti:
 	altrimenti
 		scrivere n1 n2
 FINE
+```
